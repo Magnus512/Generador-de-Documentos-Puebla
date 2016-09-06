@@ -68,6 +68,8 @@ Partial Class Puebla
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Puebla"
+        Me.ShowIcon = False
+        Me.TopMost = True
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
